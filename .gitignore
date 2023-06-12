@@ -1,0 +1,5 @@
+/.cache
+/.upm
+/node_modules
+.replit
+config.json
